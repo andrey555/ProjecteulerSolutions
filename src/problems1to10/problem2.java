@@ -4,7 +4,7 @@ package problems1to10;
  * Solution to Project Euler problem 1
  * Created by andr on 27.09.15.
  */
-public class roblem2 {
+public class problem2 {
     public static void main(String[] args) {
         int sum = 0;
         for (int i = 0; ; i++) {
