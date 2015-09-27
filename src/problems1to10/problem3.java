@@ -2,7 +2,7 @@ package problems1to10;
 
 /**
  * Solution to Project Euler problem 1
- * Created by andr on 27.09.15.
+ * Created by andrey on 27.09.15.
  */
 public class problem3 {
 
@@ -29,7 +29,7 @@ public class problem3 {
                 if (n % i == 0)
                     return i;
             }
-            return n;  // n itself is prime
+            return n;
         }
 
 
