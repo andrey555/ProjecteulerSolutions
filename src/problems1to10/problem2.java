@@ -1,8 +1,8 @@
 package problems1to10;
 
 /**
- * Solution to Project Euler problem 1
- * Created by andr on 27.09.15.
+ * Solution to Project Euler problem 2
+ * Created by andrey_v.v on 27.09.15.
  */
 public class problem2 {
     public static void main(String[] args) {

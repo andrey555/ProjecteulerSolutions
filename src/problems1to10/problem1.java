@@ -2,7 +2,7 @@ package problems1to10;
 
 /**
  * Solution to Project Euler problem 1
- * Created by andr on 27.09.15.
+ * Created by andrey_v.v on 27.09.15.
  */
 
 public class problem1 {

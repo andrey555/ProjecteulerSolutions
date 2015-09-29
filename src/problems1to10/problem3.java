@@ -1,7 +1,7 @@
 package problems1to10;
 
 /**
- * Solution to Project Euler problem 1
+ * Solution to Project Euler problem 3
  * Created by andrey_v.v on 27.09.15.
  */
 public class problem3 {
